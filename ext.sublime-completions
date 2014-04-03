@@ -1,0 +1,8 @@
+{
+    "scope": "",
+    "completions": [
+        { "trigger": "extdefine", "contents": "Ext.define(\"$1\", {\n\textend: '$2',\n\talias: 'widget.$3',\n});" },
+        { "trigger": "exton", "contents": "this$1.on(\"$2\", function(){\n\tconsole.log($3);\n});"},
+        { "trigger": "extinit", "contents": "initComponent: function(){\n\t$1\n\tthis.callParent();\n}"}
+    ]
+}

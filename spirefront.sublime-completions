@@ -1,0 +1,6 @@
+{
+    "scope": "",
+    "completions": [
+        { "trigger": "Locale", "contents": "<?=Locale(\"$1\")?>"} 
+    ]
+}

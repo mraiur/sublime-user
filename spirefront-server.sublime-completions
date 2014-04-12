@@ -1,0 +1,7 @@
+{
+    "scope": "source.php",
+    "completions": [
+        { "trigger": "inpo", "contents": "Input::post('$1')"},
+        { "trigger": "inge", "contents": "Input::get('$1')"}
+    ]
+}

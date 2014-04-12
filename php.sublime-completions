@@ -1,0 +1,8 @@
+{
+    "scope": "source.php",
+    "completions": [
+        { "trigger": "phset", "contents": "public function set$1($2){\n\t$3\n}"},
+        { "trigger": "phsetget", "contents": "public function set$1($2){\n\t$3\n}\npublic function get$1(){\n\t\n}"},
+        { "trigger": "phfu", "contents": "public function $1($2){\n\t$3\n}"}
+    ]
+}

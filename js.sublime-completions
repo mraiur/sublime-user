@@ -1,0 +1,6 @@
+{
+    "scope": "",
+    "completions": [
+        { "trigger": "fn", "contents": "function(){\n\t$1\n}"} 
+    ]
+}
